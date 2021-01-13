@@ -1,0 +1,67 @@
+# Description
+The source codes of RITS-I, RITS, BRITS-I, BRITS for health-care data imputation/classification
+
+To run the code:
+python main.py --epochs 1000 --batch_size 32 --model brits
+
+# Data Format
+In json folder, we provide the sample data (400 patients).
+
+The data format is as follows:
+* Each line in json/json is a string represents a python dict
+* The structure of each dict is
+    * forward
+    * backward
+    * label
+	
+    'forward' and 'backward' is a list of python dicts, which represents the input sequence in forward/backward directions. As an example for forward direction, each dict in the sequence contains:
+    * values: list, indicating x_t \in R^d (after elimination)
+    * masks: list, indicating m_t \in R^d
+    * deltas: list, indicating \delta_t \in R^d
+    * forwards: list, the forward imputation, only used in GRU_D, can be any numbers in our model
+    * evals: list, indicating x_t \in R^d (before elimination)
+    * eval_masks: list, indicating whether each value is an imputation ground-truth
+	
+# Data Download Links
+* Air Quality Data:
+URL: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/STMVL-Release.zip
+* Health-care Data:
+URL: https://physionet.org/challenge/2012/
+We use the test-a.zip in our experiment.
+* Human Activity Data:
+URL: https://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activity
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------翻译-----------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+#说明
+卫生保健数据插补/分类用RITS-I，RITS，BRITS-I，BRITS的源代码
+运行代码：
+python main.py --epochs 1000 --batch_size 32 --model brits
+#数据格式
+在json文件夹中，我们提供样本数据（400名患者）。
+数据格式如下：
+*json/json中的每一行都是一个表示python dict的字符串
+*每个dict的结构是
+	* forward
+    * backward
+    * label
+	“forward”和“backward”是python dict的一个列表，表示向前/向后方向的输入序列。作为前向的示例，序列中的每个dict包含：
+		* values：列表，表示R^d中的x_t（淘汰后）
+		* masks：列表，表示R^d中的m_t
+		* deltas：列表，表示R^d中\delta_t
+		* forwards：列表，前向插补，仅用于GRU_D，可以是我们模型中的任何数字
+		* evals：列表，表示R^d中的x_t（淘汰前）
+		* eval_masks：列表，指示每个值是否为插补基础真相
+#数据下载链接
+*空气质量数据：
+网址：https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/STMVL-Release.zip
+*医疗保健数据：
+网址：https://physionet.org/challenge/2012/
+我们在实验中使用test-a.zip。
+*人类活动数据：
+网址：https://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activity

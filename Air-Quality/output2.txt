@@ -1,0 +1,408 @@
+Total params is 86653
+50
+ Progress epoch 0, 12.50%, average loss 865.5446166992188
+ Progress epoch 0, 25.00%, average loss 829.9664001464844
+ Progress epoch 0, 37.50%, average loss 860.7621663411459
+ Progress epoch 0, 50.00%, average loss 841.7655181884766
+ Progress epoch 0, 62.50%, average loss 821.6880615234375
+ Progress epoch 0, 75.00%, average loss 805.619873046875
+ Progress epoch 0, 87.50%, average loss 801.2387433733259
+ Progress epoch 0, 100.00%, average loss 808.6185531616211
+MAE 80.8248801158448
+MRE 0.9933597086667387
+MAE 80.8248801158448
+MRE 0.9933597086667387
+ Progress epoch 1, 12.50%, average loss 826.6470336914062
+ Progress epoch 1, 25.00%, average loss 797.4815673828125
+ Progress epoch 1, 37.50%, average loss 773.1543782552084
+ Progress epoch 1, 50.00%, average loss 765.2684631347656
+ Progress epoch 1, 62.50%, average loss 824.40107421875
+ Progress epoch 1, 75.00%, average loss 848.5098368326823
+ Progress epoch 1, 87.50%, average loss 824.353986467634
+ Progress epoch 1, 100.00%, average loss 800.0234375
+MAE 80.03795100112309
+MRE 0.9836881363115315
+MAE 80.03795100112309
+MRE 0.9836881363115315
+ Progress epoch 2, 12.50%, average loss 870.3279418945312
+ Progress epoch 2, 25.00%, average loss 857.219482421875
+ Progress epoch 2, 37.50%, average loss 852.3802083333334
+ Progress epoch 2, 50.00%, average loss 814.4253540039062
+ Progress epoch 2, 62.50%, average loss 793.0927734375
+ Progress epoch 2, 75.00%, average loss 788.7262573242188
+ Progress epoch 2, 87.50%, average loss 785.8209054129464
+ Progress epoch 2, 100.00%, average loss 793.6171188354492
+MAE 79.1797419598933
+MRE 0.9731405143175452
+MAE 79.1797419598933
+MRE 0.9731405143175452
+ Progress epoch 3, 12.50%, average loss 806.2222290039062
+ Progress epoch 3, 25.00%, average loss 836.4081420898438
+ Progress epoch 3, 37.50%, average loss 784.0839233398438
+ Progress epoch 3, 50.00%, average loss 775.2100524902344
+ Progress epoch 3, 62.50%, average loss 770.6901489257813
+ Progress epoch 3, 75.00%, average loss 758.279795328776
+ Progress epoch 3, 87.50%, average loss 775.7528076171875
+ Progress epoch 3, 100.00%, average loss 783.2471542358398
+MAE 78.30242159795225
+MRE 0.9623580090061107
+MAE 78.30242159795225
+MRE 0.9623580090061107
+ Progress epoch 4, 12.50%, average loss 927.4159545898438
+ Progress epoch 4, 25.00%, average loss 851.8251647949219
+ Progress epoch 4, 37.50%, average loss 818.7729085286459
+ Progress epoch 4, 50.00%, average loss 807.9105682373047
+ Progress epoch 4, 62.50%, average loss 821.3664184570313
+ Progress epoch 4, 75.00%, average loss 807.729014078776
+ Progress epoch 4, 87.50%, average loss 788.4422694614956
+ Progress epoch 4, 100.00%, average loss 772.7925872802734
+MAE 77.39701837903998
+MRE 0.9512303577621429
+MAE 77.39701837903998
+MRE 0.9512303577621429
+ Progress epoch 5, 12.50%, average loss 821.3751220703125
+ Progress epoch 5, 25.00%, average loss 780.0134887695312
+ Progress epoch 5, 37.50%, average loss 780.7837320963541
+ Progress epoch 5, 50.00%, average loss 792.911865234375
+ Progress epoch 5, 62.50%, average loss 805.9578735351563
+ Progress epoch 5, 75.00%, average loss 791.5287475585938
+ Progress epoch 5, 87.50%, average loss 785.4577113560268
+ Progress epoch 5, 100.00%, average loss 759.9081878662109
+MAE 76.50617412502847
+MRE 0.9402816401474188
+MAE 76.50617412502847
+MRE 0.9402816401474188
+ Progress epoch 6, 12.50%, average loss 757.0799560546875
+ Progress epoch 6, 25.00%, average loss 785.28466796875
+ Progress epoch 6, 37.50%, average loss 797.8013712565104
+ Progress epoch 6, 50.00%, average loss 760.3699340820312
+ Progress epoch 6, 62.50%, average loss 736.081005859375
+ Progress epoch 6, 75.00%, average loss 756.3732706705729
+ Progress epoch 6, 87.50%, average loss 757.327619280134
+ Progress epoch 6, 100.00%, average loss 754.2216262817383
+MAE 75.66099792919802
+MRE 0.9298941953598873
+MAE 75.66099792919802
+MRE 0.9298941953598873
+ Progress epoch 7, 12.50%, average loss 718.106201171875
+ Progress epoch 7, 25.00%, average loss 740.80322265625
+ Progress epoch 7, 37.50%, average loss 714.6912841796875
+ Progress epoch 7, 50.00%, average loss 741.6259307861328
+ Progress epoch 7, 62.50%, average loss 722.065966796875
+ Progress epoch 7, 75.00%, average loss 738.4737854003906
+ Progress epoch 7, 87.50%, average loss 736.4964686802456
+ Progress epoch 7, 100.00%, average loss 749.4863357543945
+MAE 74.85886603794741
+MRE 0.9200357767558267
+MAE 74.85886603794741
+MRE 0.9200357767558267
+ Progress epoch 8, 12.50%, average loss 759.2388916015625
+ Progress epoch 8, 25.00%, average loss 801.315673828125
+ Progress epoch 8, 37.50%, average loss 749.4059651692709
+ Progress epoch 8, 50.00%, average loss 729.6601867675781
+ Progress epoch 8, 62.50%, average loss 702.6321899414063
+ Progress epoch 8, 75.00%, average loss 711.0979614257812
+ Progress epoch 8, 87.50%, average loss 728.1717093331473
+ Progress epoch 8, 100.00%, average loss 740.3650970458984
+MAE 74.03932332992554
+MRE 0.9099633744891766
+MAE 74.03932332992554
+MRE 0.9099633744891766
+ Progress epoch 9, 12.50%, average loss 872.9502563476562
+ Progress epoch 9, 25.00%, average loss 792.7706298828125
+ Progress epoch 9, 37.50%, average loss 763.0074666341146
+ Progress epoch 9, 50.00%, average loss 724.442138671875
+ Progress epoch 9, 62.50%, average loss 737.58271484375
+ Progress epoch 9, 75.00%, average loss 740.6715901692709
+ Progress epoch 9, 87.50%, average loss 735.124494280134
+ Progress epoch 9, 100.00%, average loss 728.8608093261719
+MAE 73.27311095494902
+MRE 0.9005464164869796
+MAE 73.27311095494902
+MRE 0.9005464164869796
+ Progress epoch 10, 12.50%, average loss 665.169921875
+ Progress epoch 10, 25.00%, average loss 773.5182800292969
+ Progress epoch 10, 37.50%, average loss 740.83251953125
+ Progress epoch 10, 50.00%, average loss 737.1924591064453
+ Progress epoch 10, 62.50%, average loss 724.2908935546875
+ Progress epoch 10, 75.00%, average loss 722.7131042480469
+ Progress epoch 10, 87.50%, average loss 705.3561924525669
+ Progress epoch 10, 100.00%, average loss 724.6396942138672
+MAE 72.53044583288471
+MRE 0.8914188606126824
+MAE 72.53044583288471
+MRE 0.8914188606126824
+ Progress epoch 11, 12.50%, average loss 706.3823852539062
+ Progress epoch 11, 25.00%, average loss 729.1618957519531
+ Progress epoch 11, 37.50%, average loss 721.2453206380209
+ Progress epoch 11, 50.00%, average loss 702.0068054199219
+ Progress epoch 11, 62.50%, average loss 688.4689697265625
+ Progress epoch 11, 75.00%, average loss 695.4630228678385
+ Progress epoch 11, 87.50%, average loss 715.9496547154018
+ Progress epoch 11, 100.00%, average loss 713.2015228271484
+MAE 71.83731093567408
+MRE 0.8829000446419932
+MAE 71.83731093567408
+MRE 0.8829000446419932
+ Progress epoch 12, 12.50%, average loss 699.6556396484375
+ Progress epoch 12, 25.00%, average loss 737.8016357421875
+ Progress epoch 12, 37.50%, average loss 763.0012003580729
+ Progress epoch 12, 50.00%, average loss 700.9832916259766
+ Progress epoch 12, 62.50%, average loss 684.7153076171875
+ Progress epoch 12, 75.00%, average loss 699.7652893066406
+ Progress epoch 12, 87.50%, average loss 700.1705322265625
+ Progress epoch 12, 100.00%, average loss 710.0301742553711
+MAE 71.18320892634017
+MRE 0.8748609534549852
+MAE 71.18320892634017
+MRE 0.8748609534549852
+ Progress epoch 13, 12.50%, average loss 707.5224609375
+ Progress epoch 13, 25.00%, average loss 682.8846130371094
+ Progress epoch 13, 37.50%, average loss 696.2057291666666
+ Progress epoch 13, 50.00%, average loss 683.9246368408203
+ Progress epoch 13, 62.50%, average loss 701.2838012695313
+ Progress epoch 13, 75.00%, average loss 706.0367736816406
+ Progress epoch 13, 87.50%, average loss 706.7288033621652
+ Progress epoch 13, 100.00%, average loss 700.8683853149414
+MAE 70.55433939815907
+MRE 0.8671319763082451
+MAE 70.55433939815907
+MRE 0.8671319763082451
+ Progress epoch 14, 12.50%, average loss 740.13916015625
+ Progress epoch 14, 25.00%, average loss 707.5650939941406
+ Progress epoch 14, 37.50%, average loss 650.7125244140625
+ Progress epoch 14, 50.00%, average loss 651.3755187988281
+ Progress epoch 14, 62.50%, average loss 667.7216796875
+ Progress epoch 14, 75.00%, average loss 683.7866617838541
+ Progress epoch 14, 87.50%, average loss 700.1943097795759
+ Progress epoch 14, 100.00%, average loss 695.3946914672852
+MAE 69.96549193242963
+MRE 0.8598948811691275
+MAE 69.96549193242963
+MRE 0.8598948811691275
+ Progress epoch 15, 12.50%, average loss 555.37255859375
+ Progress epoch 15, 25.00%, average loss 592.9278869628906
+ Progress epoch 15, 37.50%, average loss 662.3273111979166
+ Progress epoch 15, 50.00%, average loss 678.3445434570312
+ Progress epoch 15, 62.50%, average loss 713.4954345703125
+ Progress epoch 15, 75.00%, average loss 694.759033203125
+ Progress epoch 15, 87.50%, average loss 677.9029802594866
+ Progress epoch 15, 100.00%, average loss 693.2788696289062
+MAE 69.3945469802685
+MRE 0.8528778127796585
+MAE 69.3945469802685
+MRE 0.8528778127796585
+ Progress epoch 16, 12.50%, average loss 676.7096557617188
+ Progress epoch 16, 25.00%, average loss 712.138427734375
+ Progress epoch 16, 37.50%, average loss 657.5630900065104
+ Progress epoch 16, 50.00%, average loss 668.3982391357422
+ Progress epoch 16, 62.50%, average loss 674.2919311523438
+ Progress epoch 16, 75.00%, average loss 677.1108093261719
+ Progress epoch 16, 87.50%, average loss 683.3948800223214
+ Progress epoch 16, 100.00%, average loss 684.3376007080078
+MAE 68.85040423575413
+MRE 0.8461901507950171
+MAE 68.85040423575413
+MRE 0.8461901507950171
+ Progress epoch 17, 12.50%, average loss 618.705078125
+ Progress epoch 17, 25.00%, average loss 618.5892028808594
+ Progress epoch 17, 37.50%, average loss 655.2826538085938
+ Progress epoch 17, 50.00%, average loss 661.7163391113281
+ Progress epoch 17, 62.50%, average loss 685.436767578125
+ Progress epoch 17, 75.00%, average loss 685.7501220703125
+ Progress epoch 17, 87.50%, average loss 694.209699358259
+ Progress epoch 17, 100.00%, average loss 675.4540328979492
+MAE 68.31477432036668
+MRE 0.8396071137903244
+MAE 68.31477432036668
+MRE 0.8396071137903244
+ Progress epoch 18, 12.50%, average loss 613.0113525390625
+ Progress epoch 18, 25.00%, average loss 666.4664916992188
+ Progress epoch 18, 37.50%, average loss 653.4543863932291
+ Progress epoch 18, 50.00%, average loss 695.5288848876953
+ Progress epoch 18, 62.50%, average loss 682.8364379882812
+ Progress epoch 18, 75.00%, average loss 664.8707784016927
+ Progress epoch 18, 87.50%, average loss 653.9115513392857
+ Progress epoch 18, 100.00%, average loss 676.8195724487305
+MAE 67.80813539697883
+MRE 0.8333803839440883
+MAE 67.80813539697883
+MRE 0.8333803839440883
+ Progress epoch 19, 12.50%, average loss 714.6989135742188
+ Progress epoch 19, 25.00%, average loss 754.7023315429688
+ Progress epoch 19, 37.50%, average loss 798.1134440104166
+ Progress epoch 19, 50.00%, average loss 757.7914123535156
+ Progress epoch 19, 62.50%, average loss 694.7062805175781
+ Progress epoch 19, 75.00%, average loss 692.0574493408203
+ Progress epoch 19, 87.50%, average loss 687.4828622000558
+ Progress epoch 19, 100.00%, average loss 663.5018005371094
+MAE 67.32913506968637
+MRE 0.8274933399436701
+MAE 67.32913506968637
+MRE 0.8274933399436701
+ Progress epoch 20, 12.50%, average loss 846.3009643554688
+ Progress epoch 20, 25.00%, average loss 728.7808532714844
+ Progress epoch 20, 37.50%, average loss 705.227783203125
+ Progress epoch 20, 50.00%, average loss 668.0796966552734
+ Progress epoch 20, 62.50%, average loss 663.357470703125
+ Progress epoch 20, 75.00%, average loss 660.8883056640625
+ Progress epoch 20, 87.50%, average loss 660.3032488141741
+ Progress epoch 20, 100.00%, average loss 666.1736297607422
+MAE 66.8876960572232
+MRE 0.822067934694865
+MAE 66.8876960572232
+MRE 0.822067934694865
+ Progress epoch 21, 12.50%, average loss 654.8084716796875
+ Progress epoch 21, 25.00%, average loss 658.1983337402344
+ Progress epoch 21, 37.50%, average loss 637.6996459960938
+ Progress epoch 21, 50.00%, average loss 658.3364715576172
+ Progress epoch 21, 62.50%, average loss 653.5586791992188
+ Progress epoch 21, 75.00%, average loss 642.4924621582031
+ Progress epoch 21, 87.50%, average loss 659.6082502092634
+ Progress epoch 21, 100.00%, average loss 660.5039901733398
+MAE 66.45994462859764
+MRE 0.816810753565586
+MAE 66.45994462859764
+MRE 0.816810753565586
+ Progress epoch 22, 12.50%, average loss 681.5521850585938
+ Progress epoch 22, 25.00%, average loss 642.768798828125
+ Progress epoch 22, 37.50%, average loss 643.5415852864584
+ Progress epoch 22, 50.00%, average loss 692.8114776611328
+ Progress epoch 22, 62.50%, average loss 674.8671264648438
+ Progress epoch 22, 75.00%, average loss 656.238047281901
+ Progress epoch 22, 87.50%, average loss 664.1112670898438
+ Progress epoch 22, 100.00%, average loss 653.562141418457
+MAE 66.04103347156824
+MRE 0.8116622217730545
+MAE 66.04103347156824
+MRE 0.8116622217730545
+ Progress epoch 23, 12.50%, average loss 536.3262939453125
+ Progress epoch 23, 25.00%, average loss 601.6050415039062
+ Progress epoch 23, 37.50%, average loss 592.0268758138021
+ Progress epoch 23, 50.00%, average loss 584.4812164306641
+ Progress epoch 23, 62.50%, average loss 603.261279296875
+ Progress epoch 23, 75.00%, average loss 620.7461547851562
+ Progress epoch 23, 87.50%, average loss 637.5135846819196
+ Progress epoch 23, 100.00%, average loss 654.1084899902344
+MAE 65.64247588361248
+MRE 0.8067638408674321
+MAE 65.64247588361248
+MRE 0.8067638408674321
+ Progress epoch 24, 12.50%, average loss 625.0615234375
+ Progress epoch 24, 25.00%, average loss 707.3053588867188
+ Progress epoch 24, 37.50%, average loss 670.3112182617188
+ Progress epoch 24, 50.00%, average loss 697.7061462402344
+ Progress epoch 24, 62.50%, average loss 671.19970703125
+ Progress epoch 24, 75.00%, average loss 650.7848409016927
+ Progress epoch 24, 87.50%, average loss 653.1696254185268
+ Progress epoch 24, 100.00%, average loss 646.2615737915039
+MAE 65.20542230498924
+MRE 0.801392333790519
+MAE 65.20542230498924
+MRE 0.801392333790519
+ Progress epoch 25, 12.50%, average loss 584.9324340820312
+ Progress epoch 25, 25.00%, average loss 615.8853454589844
+ Progress epoch 25, 37.50%, average loss 661.1193644205729
+ Progress epoch 25, 50.00%, average loss 662.6144104003906
+ Progress epoch 25, 62.50%, average loss 656.5279418945313
+ Progress epoch 25, 75.00%, average loss 650.7454630533854
+ Progress epoch 25, 87.50%, average loss 648.4191632952009
+ Progress epoch 25, 100.00%, average loss 640.8575134277344
+MAE 64.6875335393327
+MRE 0.7950273403301265
+MAE 64.6875335393327
+MRE 0.7950273403301265
+ Progress epoch 26, 12.50%, average loss 557.952392578125
+ Progress epoch 26, 25.00%, average loss 593.6617431640625
+ Progress epoch 26, 37.50%, average loss 606.4097086588541
+ Progress epoch 26, 50.00%, average loss 623.0485534667969
+ Progress epoch 26, 62.50%, average loss 619.8716674804688
+ Progress epoch 26, 75.00%, average loss 614.2247823079427
+ Progress epoch 26, 87.50%, average loss 630.7815290178571
+ Progress epoch 26, 100.00%, average loss 639.6081390380859
+MAE 64.22923143258255
+MRE 0.7893946830766896
+MAE 64.22923143258255
+MRE 0.7893946830766896
+ Progress epoch 27, 12.50%, average loss 580.48291015625
+ Progress epoch 27, 25.00%, average loss 559.7685241699219
+ Progress epoch 27, 37.50%, average loss 590.2045084635416
+ Progress epoch 27, 50.00%, average loss 631.1141052246094
+ Progress epoch 27, 62.50%, average loss 642.7033447265625
+ Progress epoch 27, 75.00%, average loss 641.2074178059896
+ Progress epoch 27, 87.50%, average loss 637.1557965959821
+ Progress epoch 27, 100.00%, average loss 632.8981704711914
+MAE 63.74910867348146
+MRE 0.7834938440847683
+MAE 63.74910867348146
+MRE 0.7834938440847683
+ Progress epoch 28, 12.50%, average loss 563.9763793945312
+ Progress epoch 28, 25.00%, average loss 567.7119140625
+ Progress epoch 28, 37.50%, average loss 574.6060587565104
+ Progress epoch 28, 50.00%, average loss 605.8960266113281
+ Progress epoch 28, 62.50%, average loss 641.577880859375
+ Progress epoch 28, 75.00%, average loss 657.2976379394531
+ Progress epoch 28, 87.50%, average loss 653.0021536690848
+ Progress epoch 28, 100.00%, average loss 623.9914588928223
+MAE 63.30042156476653
+MRE 0.7779793577662392
+MAE 63.30042156476653
+MRE 0.7779793577662392
+ Progress epoch 29, 12.50%, average loss 637.59375
+ Progress epoch 29, 25.00%, average loss 596.6485290527344
+ Progress epoch 29, 37.50%, average loss 599.1341552734375
+ Progress epoch 29, 50.00%, average loss 607.1253051757812
+ Progress epoch 29, 62.50%, average loss 631.20341796875
+ Progress epoch 29, 75.00%, average loss 608.3833669026693
+ Progress epoch 29, 87.50%, average loss 607.2271772112165
+ Progress epoch 29, 100.00%, average loss 623.6008338928223
+MAE 62.836054405469575
+MRE 0.7722721593712342
+MAE 62.836054405469575
+MRE 0.7722721593712342
+ Progress epoch 30, 12.50%, average loss 732.2877807617188
+ Progress epoch 30, 25.00%, average loss 658.4182739257812
+ Progress epoch 30, 37.50%, average loss 605.7045084635416
+ Progress epoch 30, 50.00%, average loss 602.8048095703125
+ Progress epoch 30, 62.50%, average loss 586.946923828125
+ Progress epoch 30, 75.00%, average loss 603.9156392415365
+ Progress epoch 30, 87.50%, average loss 611.8858816964286
+ Progress epoch 30, 100.00%, average loss 616.8538665771484
+MAE 62.28387510642577
+MRE 0.7654857259506861
+MAE 62.28387510642577
+MRE 0.7654857259506861
+ Progress epoch 31, 12.50%, average loss 593.1360473632812
+ Progress epoch 31, 25.00%, average loss 643.4873352050781
+ Progress epoch 31, 37.50%, average loss 598.1203918457031
+ Progress epoch 31, 50.00%, average loss 608.2503280639648
+ Progress epoch 31, 62.50%, average loss 635.1146789550781
+ Progress epoch 31, 75.00%, average loss 605.6377919514974
+ Progress epoch 31, 87.50%, average loss 596.8650730678013
+ Progress epoch 31, 100.00%, average loss 614.9370536804199
+MAE 61.8450917983323
+MRE 0.760092960029217
+MAE 61.8450917983323
+MRE 0.760092960029217
+ Progress epoch 32, 12.50%, average loss 635.86962890625
+ Progress epoch 32, 25.00%, average loss 606.1716003417969
+ Progress epoch 32, 37.50%, average loss 601.4679972330729
+ Progress epoch 32, 50.00%, average loss 597.7629089355469
+ Progress epoch 32, 62.50%, average loss 598.4722290039062
+ Progress epoch 32, 75.00%, average loss 589.2260030110677
+ Progress epoch 32, 87.50%, average loss 608.1783883231027
+ Progress epoch 32, 100.00%, average loss 607.5545425415039
+MAE 61.38811776879128
+MRE 0.7544766252050575
+MAE 61.38811776879128
+MRE 0.7544766252050575
+ Progress epoch 33, 12.50%, average loss 704.3382568359375
+ Progress epoch 33, 25.00%, average loss 708.8316650390625
+ Progress epoch 33, 37.50%, average loss 643.1219787597656
+ Progress epoch 33, 50.00%, average loss 592.0849761962891
+ Progress epoch 33, 62.50%, average loss 604.00244140625
+ Progress epoch 33, 75.00%, average loss 582.4319966634115
+ Progress epoch 33, 87.50%, average loss 594.9728306361607
+ Progress epoch 33, 100.00%, average loss 604.8825836181641
+MAE 60.91706874397364
+MRE 0.7486873048696615
